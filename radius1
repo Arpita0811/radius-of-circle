@@ -1,4 +1,0 @@
-import math
-r=float(input("Enter Radius of a circle "))
-area_cir=math.pi*r*r
-print("The area of the circle with radius",r,"is",area_cir)
